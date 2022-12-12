@@ -1,0 +1,51 @@
+.maintxt{
+    position: absolute;
+    width: 739px;
+    height: 118px;
+    left: 693px;
+    top: 425px;
+
+    font-family: 'Josefin Slab';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 2400px;
+    line-height: 150px;
+
+    color: #FFFFFF;
+
+    text-shadow: -4px 12px 16px #000000;
+}
+.wtxt{
+    position: absolute;
+    width: 739px;
+    height: 118px;
+    left: 693px;
+    top: 925px;
+
+    font-family: 'Josefin Slab';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 2400px;
+    line-height: 150px;
+
+    color: #FFFFFF;
+
+    text-shadow: -4px 12px 16px #000000;
+
+}
+.back{
+    background-image: url(gg.png);
+}
+html {
+scroll-behavior: smooth;
+}    
+#блок1 {
+height: 1400px;
+background-color:black;
+}
+    
+#блок2 {
+height: 1000px;
+background-color: #24246c;
+margin: 200px;
+}
